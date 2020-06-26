@@ -4,7 +4,7 @@ const e = React.createElement;
 const AppNav = () => (
    <nav class="navbar navbar-dark bg-dark">
        <a class="navbar-brand" href="#">Devlog</a>
-        <font color="#cccccc">A Blog for Developer</font>
+        <font color="#cccccc">Hello, Developer !</font>
        <a role="button" class="btn btn-outline-info navbar-btn" href="/logout">Logout</a>
    </nav>
 );
